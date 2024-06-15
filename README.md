@@ -1,3 +1,4 @@
+LOOK A THE VIDEO TO KNOW HOW THE APPLICATION USED
 you need to save all python files,image in one file 
 thwn you have to create a database name as fnb in you mysql ,
 you can use fnb_database.sql file to create database and required tables for this project 
