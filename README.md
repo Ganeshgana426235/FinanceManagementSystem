@@ -1,6 +1,6 @@
 Finance Management System
 Overview :
-  The FNB Loan Management System is a GUI-based application developed using Python. It streamlines the loan management process for small financial institutions by allowing users to input customer details, manage loan accounts, and track repayments efficiently.
+  The Finance Management System is a GUI-based application developed using Python. It streamlines the loan management process for small financial institutions by allowing users to input customer details, manage loan accounts, and track repayments efficiently.
 
 Features :
   Add and manage customer information.
